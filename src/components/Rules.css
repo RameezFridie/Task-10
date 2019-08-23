@@ -1,0 +1,63 @@
+* {
+    background-color: dimgrey
+}
+
+
+/* Each list item has a different color */
+
+.rule-1 {
+    color: rgb(74, 26, 156)
+}
+
+.rule-2 {
+    color: rgb(102, 43, 204)
+}
+
+.rule-3 {
+    color: rgb(126, 93, 182)
+}
+
+.rule-4 {
+    color: rgb(175, 148, 223)
+}
+
+.rule-5 {
+    color: rgb(111, 38, 238)
+}
+
+.rule-6 {
+    color: rgb(129, 114, 156)
+}
+
+.rule-7 {
+    color: rgb(97, 13, 241)
+}
+
+.rule-8 {
+    color: rgb(94, 53, 163)
+}
+
+.rule-9 {
+    color: rgb(72, 48, 112)
+}
+
+
+/* List items styling */
+
+li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    padding-bottom: 30px;
+    text-align: center
+}
+
+
+/* Header styling */
+
+h2 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-bottom: 50px;
+    font-size: 40px;
+    color: red
+}

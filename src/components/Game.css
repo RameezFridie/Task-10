@@ -1,0 +1,53 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+    color: blue;
+    padding: 100px;
+}
+
+td {
+    padding: 10px;
+}
+
+
+/* .game {
+    background-color: chartreuse
+} */
+
+.the_state {
+    background-color: rgb(172, 123, 20);
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    color: crimson;
+}
+
+
+/* .main_body {
+    background-color: rgb(201, 21, 81)
+} */
+
+.restart_button {
+    margin-bottom: 20%;
+    margin-left: 45%;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+.restart_button:hover {
+    opacity: 1
+}
+
+.select {
+    margin-bottom: 2%;
+    text-align: center;
+    background-color: aqua;
+    margin-left: 45%;
+    width: 200px
+}
